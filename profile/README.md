@@ -4,7 +4,7 @@
 
 ## 데모 링크
 
-[MyCalendarApp 데모 보기](https://your-demo-link.com)
+[MyCalendarApp 데모 보기](https://catcalendar.netlify.app/)
 
 ## 기능 소개
 
@@ -42,26 +42,3 @@
 - **Jest 또는 Mocha**: 테스트 프레임워크
 - **Docker**: 컨테이너화
 - **GitHub Actions**: CI/CD 파이프라인
-
-## 설치 및 실행 방법
-
-### 전제 조건
-
-- **Node.js**가 설치되어 있어야 합니다. [Node.js 다운로드](https://nodejs.org/)
-- **MongoDB**가 설치되어 있어야 합니다. [MongoDB 다운로드](https://www.mongodb.com/try/download/community)
-
-### 클론 및 종속성 설치
-
-```bash
-# 리포지토리 클론
-git clone https://github.com/yourusername/MyCalendarApp.git
-cd MyCalendarApp
-
-# 프론트엔드 종속성 설치
-cd frontend
-npm install
-
-# 백엔드 종속성 설치
-cd ../backend
-npm install
-```
