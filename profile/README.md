@@ -1,7 +1,6 @@
 # 📅 MyCalendarApp
 
-**MyCalendarApp**은 사용자가 달력에서 날짜를 선택하여 개인 일정을 기록하고 관리할 수 있는 웹 애플리케이션입니다. React와 TypeScript를 사용한 프론트엔드와 Node.js를 사용한 백엔드로 구성되어 있으며, 직관적이고 사용하기 쉬운 인터페이스를 제공합니다.
-
+**MyCalendarApp**은 사용자가 달력에서 날짜를 선택하여 개인 일정을 기록하고 관리할 수 있는 웹 애플리케이션입니다.
 ## 데모 링크
 
 [MyCalendarApp 데모 보기](https://catcalendar.netlify.app/)
